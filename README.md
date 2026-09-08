@@ -1,6 +1,6 @@
 # АРБОРИЯ
 
-> **[Открыть сайт](https://mecooked.github.io/arboria/)**
+> **[Открыть сайт](https://mecooked.github.io/Arboria/)**
 
 <img width="3432" height="1677" alt="Component 36 1 (1)" src="https://github.com/user-attachments/assets/01455971-6d08-4677-98d9-ec445157dcc8" />
 
